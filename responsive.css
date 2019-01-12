@@ -1,0 +1,85 @@
+/* タブレット */
+@media (max-width: 1000px) {
+    .pfl {
+        font-size: 15px;
+    }
+
+    .body {
+        width: 100%;
+        margin-bottom: 100px;
+
+    }
+
+    .top-wrapper h2 {
+        font-size: 20px;
+    }
+
+    .container {
+        font-size: 32px;
+    }
+
+}
+
+/* スマホ */
+
+@media (max-width: 670px) {
+    .btn-wrapper {
+        width: 100%
+    }
+
+    .top-wrapper h2 {
+        font-size: 18px;
+
+    }
+
+    .container {
+        font-size: 50px;
+    }
+
+    .body {
+        width: 100%;
+
+    }
+
+    .pfl {
+        font-size: 8px;
+    }
+
+    .twitter {
+
+        font-size: 20px;
+        margin-top: 5px;
+
+    }
+
+    .facebook {
+        font-size: 20px;
+
+    }
+
+    .Instagram {
+
+        font-size: 20px;
+    }
+
+    .nakami1-wrapper {
+
+        margin: 10px;
+
+
+    }
+
+    .nakami1-wrapper h1 {
+        font-size: 35px;
+    }
+
+    .top-wrapper {
+        letter-spacing: 5px;
+    }
+    .contact-form input{
+        width:80%;
+    }
+    .contact-form textarea{
+        width:80%;
+    }
+}

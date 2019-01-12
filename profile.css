@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+
+
+header {
+    background-color: darkgrey;
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+.global {
+
+    color: dimgray;
+    letter-spacing: 7px;
+    margin: 100px;
+}
+
+.bunsyou {
+    margin-bottom: 50px;
+}
+
+.bunsyou1 {
+    margin-bottom: 50px;
+}
+
+.syasin {
+    margin: 100px 100px 0 100px;
+}
+
+.syasinmoji {
+    width: 65%;
+    text-align: center;
+    color: darkblue;
+    letter-spacing: 7px;
+    opacity: 0.5;
+    margin-bottom: 100px;
+}
+
+footer {
+    background-color: darkgrey;
+    height: 90px;
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+
